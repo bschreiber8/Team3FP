@@ -1,0 +1,3 @@
+/Users/benschreiber/Desktop/Computer Graphics/lab04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/benschreiber/Desktop/Computer Graphics/lab04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/benschreiber/Desktop/Computer Graphics/lab04/cmake-build-debug/CMakeFiles/lab04.dir
